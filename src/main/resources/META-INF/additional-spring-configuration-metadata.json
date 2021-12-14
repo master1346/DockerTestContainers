@@ -1,0 +1,9 @@
+{
+  "properties":[
+    {
+      "name": "netology.profile.dev",
+      "type": "java.lang.String",
+      "description": "Description for netology.profile.dev."
+    }
+    ]
+}
